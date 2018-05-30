@@ -1,4 +1,3 @@
 # variational-autoencoders-tf-eager
-Variational autoencoders using the new tf-eager API
-
+Variational autoencoders using Tensorflow's eager API
 [See Notebook](VAEs.ipynb)
